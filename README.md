@@ -8,9 +8,7 @@
 ### 安装教程
 https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
 ### 页面展示
-![部分截图/1.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/1.png)
-![部分截图/2.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/2.png)
-![部分截图/3.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/3.png)
-![部分截图/4.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/4.png)
-![部分截图/5.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/5.png)
-![部分截图/6.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/6.png)
+![图片素材/32.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/32.png)
+![图片素材/33.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/33.png)
+![图片素材/37.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/37.png)
+![图片素材/39.png](https://github.com/xiaolou888/ludashi/blob/main/%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90/39.png)
