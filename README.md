@@ -6,7 +6,7 @@
 - 这个版本可以对接sora2去水印，但是需要修改代码
 - sora2去水印接口：https://api.yuantoai.com/
 ### 安装教程
-https://www.kancloud.cn/rbhedu/jmqsy/3203027
+https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
 ### 页面展示
 ![部分截图/1.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/1.png)
 ![部分截图/2.png](https://github.com/xiaolou888/jumao/blob/main/%E9%83%A8%E5%88%86%E6%88%AA%E5%9B%BE/2.png)
