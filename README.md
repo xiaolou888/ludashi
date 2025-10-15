@@ -18,5 +18,3 @@
 ### 安装教程
 https://3ep447gp4d.k.topthink.com/@9421839zpg/chengxujieshao.html
 
-### 特别感谢
-原作者：[陆大湿](https://bbs.ludeqi.com/2700/)
